@@ -44,6 +44,7 @@ footer {
     overflow: hidden;
 }
 
+/* フロート解除*/    
 .clear {        
     clear: both;
 }
