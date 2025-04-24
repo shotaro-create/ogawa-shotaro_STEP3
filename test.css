@@ -1,0 +1,49 @@
+/* ヘッダー */
+header {
+    background-color:aquamarine;
+    width: 800px;
+    height: 70px;
+}
+.header-ttl {
+    text-align: center;
+    line-height: 70px;
+}
+/* サイドバー */
+aside {
+    background-color: aqua;
+    width: 300px;
+    float: left;
+    height: 400px;
+}
+
+/* メインコンテンツ */
+main {
+    background-color: sandybrown;
+    float: left;
+    width: 500px;
+    height: 400px;
+    box-sizing: border-box;
+}
+
+form {
+    width: 400px;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+.btn {
+    float: right;
+    margin-top: 5px;
+}
+
+/* フッター */
+footer {
+    background-color: #ffc0cb;
+    width: 800px;
+    height: 60px;
+    overflow: hidden;
+}
+
+.clear {        
+    clear: both;
+}
